@@ -1,2 +1,10 @@
 # Adding config.py file.
 config.py
+
+# add 
+archive/credits.csv
+archive/keywords.csv
+archive/links.csv
+archive/links_small.csv
+archive/ratings_small.csv
+
