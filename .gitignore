@@ -1,7 +1,9 @@
 # Adding config.py file.
 config.py
 
-# add 
+# add
+movies_metadata.csv
+ratings.csv
 archive/credits.csv
 archive/keywords.csv
 archive/links.csv
